@@ -8,8 +8,10 @@ Therefore it is not obvious to select folders with old contents that can be arch
 
 This tool is to help select the folders that can be safely moved to an `old` or `2017` style folder or a `.zip` archive.
 
-# Features
+# features
 * Can set a folder arg in command line, returns dir list with the max last modified date of their contents
+
+# planned features
 * GUI to browse the folder
 * Filter for date
 * Move filtered folders to another location
